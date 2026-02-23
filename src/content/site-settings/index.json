@@ -32,7 +32,7 @@
     "asset": "ocp-fnv-favicon.png"
   },
   "siteFont": {
-    "fontFamily": "Franlin Gothic",
+    "fontFamily": "Franklin Gothic",
     "regularFont": {
       "fontFile": "/static/fonts/franklingothic-book.ttf",
       "fontFormat": "ttf"
