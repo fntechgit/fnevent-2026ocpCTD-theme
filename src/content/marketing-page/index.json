@@ -38,7 +38,10 @@
     },
     "image": {
       "display": false,
-      "title": "Image"
+      "title": "",
+      "image": {
+        "src": "ocp-ctd-fnv-hlschedule-v1.jpg"
+      }
     },
     "content": {
       "display": false,
