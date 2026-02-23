@@ -43,5 +43,12 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "2026 OCP Canada Tech Day",
+    "image": "ocp-fnv-favicon.png"
+  },
+  "favicon": {
+    "asset": "ocp-fnv-favicon.png"
   }
 }
