@@ -9,7 +9,7 @@
   ],
   "widgets": {
     "chat": {
-      "enabled": true,
+      "enabled": false,
       "showQA": false,
       "showHelp": false,
       "defaultScope": "page"
