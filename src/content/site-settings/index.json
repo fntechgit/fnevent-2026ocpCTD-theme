@@ -51,5 +51,16 @@
   },
   "favicon": {
     "asset": "ocp-fnv-favicon.png"
+  },
+  "siteFont": {
+    "fontFamily": "Franlin Gothic",
+    "regularFont": {
+      "fontFile": "/static/fonts/franklingothic-book.ttf",
+      "fontFormat": "ttf"
+    },
+    "boldFont": {
+      "fontFormat": "ttf",
+      "fontFile": "/static/fonts/franklingothic-medium.ttf"
+    }
   }
 }
