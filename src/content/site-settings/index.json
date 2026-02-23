@@ -46,7 +46,8 @@
   },
   "siteMetadata": {
     "title": "2026 OCP Canada Tech Day",
-    "image": "ocp-fnv-favicon.png"
+    "image": "ocp-fnv-favicon.png",
+    "description": "Un événement incontournable au sujet de technologies ouvertes pour centres de données\n\nOCP Canada Tech Day will bring together Canadian technical and business leadership, along with the OCP Community, to discuss and share progress and ideas important to advancing AI data centers, hybrid classical and quantum data centers and extending AI from data center to the user. OCP Canada Tech Day is intended to showcase the latest innovations and technical advancements from around the world. "
   },
   "favicon": {
     "asset": "ocp-fnv-favicon.png"
