@@ -1,8 +1,13 @@
 ---
 templateKey: content-page
+title: REGISTRATION
 userRequirement: NONE
-title: Footer Content
 ---
-YOU DECIDE!
+<br/>
 
-The footer in FNvirtual can contain any common info you’d like. Things like social media links, corporate info, how to join the organization, service providers, supporters, blog links, mailing list subscriptions, and how to become part of the team are all standard fare. Think of this space as an easy-access place to hold all the important tidbits that don’t necessarily need to be front and center.
+#### **Registration Options**
+
+Early Bird Ticket: $150 + GST and QST (taxes) on sale March 2- April 3
+Standard/Onsite Ticket: $200 + GST and QST (taxes) on sale April 4 - June 11
+
+Last day to request a refund = May 1, 2026
