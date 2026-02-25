@@ -29,4 +29,4 @@ Montréal, QC H2Y 0A3, Canada
 Rate: 329 CAD
 Deadine to book at group rate: May 15, 2026\
 \
-<a href="https://ccib.es/en/barcelona/#ccib_arribar" target="_blank">Click here</a> to reserve your room.
+<a href="https://app.marriott.com/reslink?id=1765834357044&key=GRP&app=resvlink" target="_blank">Click here</a> to reserve your room.
