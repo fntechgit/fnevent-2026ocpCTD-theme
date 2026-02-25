@@ -3,7 +3,7 @@ templateKey: content-page
 title: TRAVEL
 userRequirement: NONE
 ---
-Venue & Hotel Accommodations
+### Venue & Hotel Accommodations
 
 **Event:** 2026 OCP Canada Tech Day
 
