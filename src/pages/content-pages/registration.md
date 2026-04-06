@@ -7,7 +7,7 @@ userRequirement: NONE
 
 ### **Registration Options**
 
-Early Bird Ticket: $150 + GST and QST (taxes) on sale March 2- April 3 <br/>
-Standard/Onsite Ticket: $200 + GST and QST (taxes) on sale April 4 - June 11
+Early Bird Ticket: $150 + GST and QST (taxes) on sale March 2 - April 30 <br/>
+Standard/Onsite Ticket: $200 + GST and QST (taxes) on sale May 1 - June 11
 
 Last day to request a refund = May 1, 2026
