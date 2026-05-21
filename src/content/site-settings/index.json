@@ -41,5 +41,8 @@
       "fontFormat": "ttf",
       "fontFile": "/static/fonts/franklingothic-medium.ttf"
     }
+  },
+  "registration": {
+    "registrationMode": "STANDALONE"
   }
 }
