@@ -43,6 +43,6 @@
     }
   },
   "registration": {
-    "registrationMode": "STANDALONE"
+    "registrationMode": "MODAL"
   }
 }
